@@ -8,53 +8,49 @@
 <h3 align="center">🌱 Botany Graduate | 💻 Web Developer | 🚀 Passionate about Tech</h3>
 
 ---
+<div align="center">
 
-### 👨‍💻 **About Me**
-- 🔬 I have an undergraduate degree in **Botany** but transitioned into **Web Development**.
-- 🚀 Passionate about creating interactive and user-friendly web applications.
-- 💡 Currently exploring **React, Next.js, and Backend Technologies**.
-- 🎯 Looking for exciting opportunities in frontend development.
-
----
-
-### 🚀 **What I'm Currently Working On**
-- ⚡ Enhancing my **React & Next.js** skills.
-- 📖 Learning about **backend development & databases**.
+### 👨‍💻 **About Me**  
+🔬 I have an undergraduate degree in **Botany** but transitioned into **Web Development**.  
+🚀 Passionate about creating interactive and user-friendly web applications.  
+💡 Currently exploring **React, Next.js, and Backend Technologies**.  
+🎯 Looking for exciting opportunities in frontend development.  
 
 ---
 
-### 🛠 **Tech Stack & Skills**
+### 🚀 **What I'm Currently Working On**  
+⚡ Enhancing my **React & Next.js** skills.  
+📖 Learning about **backend development & databases**.  
 
+---
 
+### 🛠 **Tech Stack & Skills**  
 
-#### 🌐 **Frontend**
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
+#### 🌐 **Frontend**  
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />  
 
-#### 💻 **Backend**
-<img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />
+#### 💻 **Backend**  
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />  
 
-#### 🛠 **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
+#### 🛠 **Tools**  
+<img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />  
 
+---
 
+### 📫 **Connect With Me**  
 
-
-### 📫 **Connect With Me**
-
-  <a href="https://github.com/sabila111" target="_blank">
+<a href="https://github.com/sabila111" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/sharmin-sharker-443865231/" target="_blank">
+</a>  
+<a href="https://www.linkedin.com/in/sharmin-sharker-443865231/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/+8801732733979" target="_blank">
+</a>  
+<a href="https://wa.me/+8801732733979" target="_blank">
     <img src="https://i.ibb.co.com/hrqhbZb/Whats-App-svg.webp" width="50" height="50" alt="WhatsApp">
-  </a>
+</a>  
 
+</div>
 
-
-
----
 
 ### 📊 **GitHub Stats**
 <p align="center">
