@@ -1,10 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co.com/FLdsH2BF/1738757858260.jpg" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there! I'm Sharmin Sharker 👋</h1>
 <h3 align="center">🌱 Botany Graduate | 💻 Web Developer | 🚀 Passionate about Tech</h3>
 
 ---
