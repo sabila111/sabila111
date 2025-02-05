@@ -25,22 +25,19 @@
 
 ### 🛠 **Tech Stack & Skills**
 
-#### 🌐 **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
-</div>
+
+#### 🌐 **Frontend**
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
 
 #### 💻 **Backend**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />
 
 #### 🛠 **Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
+
 </div>
 
----
 
 ### 📫 **Connect With Me**
 <div align="center">
