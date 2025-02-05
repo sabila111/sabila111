@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="https://wa.me/+8801732733979" target="_blank">
-    <img src="https://i.ibb.co.com/hrqhbZb/Whats-App-svg.webp" alt="WhatsApp">
+    <img src="https://i.ibb.co.com/hrqhbZb/Whats-App-svg.webp" width="40" height="40" alt="WhatsApp">
   </a>
 </div>
 
