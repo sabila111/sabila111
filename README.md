@@ -25,7 +25,7 @@
 
 ### 🛠 **Tech Stack & Skills**
 
-<div align="center">
+
 
 #### 🌐 **Frontend**
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
@@ -36,11 +36,11 @@
 #### 🛠 **Tools**
 <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
 
-</div>
+
 
 
 ### 📫 **Connect With Me**
-<div align="center">
+
   <a href="https://github.com/sabila111" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
   </a>
@@ -50,7 +50,7 @@
   <a href="https://wa.me/+8801732733979" target="_blank">
     <img src="https://i.ibb.co.com/hrqhbZb/Whats-App-svg.webp" width="50" height="50" alt="WhatsApp">
   </a>
-</div>
+
 
 
 
