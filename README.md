@@ -5,22 +5,24 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi there! I'm Sharmin Sharker 👋</h1>
-<h3 align="center">🌱 Botany Graduate | 💻 Web Developer | 🚀 Passionate about Tech</h3>
+<h3 align="center"> 💻 Web Developer | 🚀 Passionate about Tech</h3>
 
 ---
 <div align="center">
 
 ### 👨‍💻 **About Me**  
-🔬 I have an undergraduate degree in **Botany** but transitioned into **Web Development**.  
+🔬 Passionate about **Web Development**.  
 🚀 Passionate about creating interactive and user-friendly web applications.  
 💡 Currently exploring **React, Next.js, and Backend Technologies**.  
 🎯 Looking for exciting opportunities in frontend development.  
 
 ---
 
+
 ### 🚀 **What I'm Currently Working On**  
 ⚡ Enhancing my **React & Next.js** skills.  
 📖 Learning about **backend development & databases**.  
+
 
 ---
 
@@ -35,7 +37,9 @@
 #### 🛠 **Tools**  
 <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />  
 
+
 ---
+
 
 ### 📫 **Connect With Me**  
 
@@ -49,7 +53,6 @@
     <img src="https://i.ibb.co.com/hrqhbZb/Whats-App-svg.webp" width="50" height="50" alt="WhatsApp">
 </a>  
 
-</div>
 
 
 ### 📊 **GitHub Stats**
@@ -66,5 +69,10 @@
 </p>
 
 ---
+
+
+</div>
+
+
 
 ⭐ **Feel free to check out my repositories and projects!**
