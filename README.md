@@ -19,33 +19,43 @@
 
 ### 🚀 **What I'm Currently Working On**
 - ⚡ Enhancing my **React & Next.js** skills.
-- 🎨 Building a **portfolio website** to showcase my projects.
 - 📖 Learning about **backend development & databases**.
 
 ---
 
 ### 🛠 **Tech Stack & Skills**
+
 #### 🌐 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
 </p>
 
 #### 💻 **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />
 </p>
 
-#### 🛠 **Tools & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+#### 🛠 **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
 </p>
+
 
 ---
 
 ### 📫 **Connect With Me**
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web)](https://yourportfolio.com)
+<p align="center">
+  <a href="https://github.com/sabila111" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sharmin-sharker-443865231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/+8801732733979" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
 
 ---
 
