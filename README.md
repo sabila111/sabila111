@@ -26,35 +26,35 @@
 ### 🛠 **Tech Stack & Skills**
 
 #### 🌐 **Frontend**
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" alt="Frontend Skills" />
-</p>
+</div>
 
 #### 💻 **Backend**
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" alt="Backend Skills" />
-</p>
+</div>
 
 #### 🛠 **Tools**
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
-</p>
-
+</div>
 
 ---
 
 ### 📫 **Connect With Me**
-<p align="center">
+<div align="center">
   <a href="https://github.com/sabila111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/sharmin-sharker-443865231/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="https://wa.me/+8801732733979" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp">
   </a>
-</p>
+</div>
+
 
 
 ---
